@@ -1,0 +1,9 @@
+# ignore ALL . filesdf
+*.pdf
+
+# ignore ALL files in ANY directory named data
+/data
+/chat_website
+/.llmenv
+/llama-cpp-python
+/llama.cpp
